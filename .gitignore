@@ -1,0 +1,15 @@
+# =========================================
+# Premake & Visual Studio Generated Files 
+# =========================================
+# Ignore auto-generated soultion and project files
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filter
+
+# Visual Studio Cache 
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
