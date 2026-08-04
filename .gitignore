@@ -5,7 +5,7 @@
 *.sln
 *.vcxproj
 *.vcxproj.user
-*.vcxproj.filter
+*.vcxproj.filters
 
 # Visual Studio Cache 
 .vs/
