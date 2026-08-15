@@ -4,7 +4,7 @@ project "App"
     cppdialect "C++20"
     staticruntime "off"
 
-    targetdir (output_exe)
+    targetdir (output_bin)
     objdir (output_int)
 
     files {
@@ -17,6 +17,10 @@ project "App"
     }
 
     links {
+        "Core"
+    }
+
+    dependson {
         "Core"
     }
 
